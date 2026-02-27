@@ -17,8 +17,10 @@ class MainActivity : AppCompatActivity() {
             insets
         }//ViewCompat
         //Code goes below here
-
         //Code goes above here
     }//override fun onCreate
+    //Functions and Methods for MainActivity go below here
+    //Functions and Methods for MainActivity go above here
 }//class MainActivity
 //Data classes go below here
+//Data classes go above here
